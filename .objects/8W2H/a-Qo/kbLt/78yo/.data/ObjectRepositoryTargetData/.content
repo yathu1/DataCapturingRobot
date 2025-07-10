@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9kwchRkfHE2OnBj8gJtlHg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" CVScreenId="cd15917c-9e27-4c02-8922-acb0b4994641" CvTextArea="272, 595, 56, 15" CvTextArgument="Female" CvType="Text" DesignTimeRectangle="266, 594, 171, 17" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Female' tag='LABEL' /&gt;" Guid="97dc8f33-ba20-4c45-abf1-a0d91c1a556d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CRM' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0ab3ac654d2beedcd3d6629fc03254f1.png" xmlns="">0uTYA1A9rVU-2S8zmHbDndw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
